@@ -48,7 +48,7 @@ def run(episodes, is_training=True, render=False):
             learning_rate_a = 0.0001
 
 
-        #pokud reward bude 1, označí to rewards per episode[i] na 1 (aka: Odmění episodu)
+        #pokud reward bude 1, označí to rewards_per_episode[i] na 1 (aka: Odmění episodu)
         ...
 
     env.close()
