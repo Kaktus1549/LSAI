@@ -1,5 +1,2 @@
 # LSAI
-Prekladiste uloh
-
-
-py -m pip install -r requairements.txt
+Tohle je repozitář pro úlohy používané na Letní Škole AI.
