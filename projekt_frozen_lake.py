@@ -65,6 +65,4 @@ def run(episodes, is_training=True, render=False):
         f.close()
 
 if __name__ == '__main__':
-    # run(15000)
-
-    run(15000, is_training=True, render=False)
+    # Rozjedte funkci
