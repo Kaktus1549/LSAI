@@ -1,0 +1,2 @@
+# LSAI
+Prekladiste uloh
