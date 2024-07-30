@@ -2,4 +2,4 @@
 Prekladiste uloh
 
 
-pip3 install -r requairements.txt
+py -m pip install -r requairements.txt
